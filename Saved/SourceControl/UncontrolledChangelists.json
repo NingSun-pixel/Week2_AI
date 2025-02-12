@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5/Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UE5/Projects/MyProject/Content/AI/BP_ThirdPersonCharacter1.uasset",
+				"D:/UE5/Projects/MyProject/Content/AI/BP_C1.uasset",
+				"D:/UE5/Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/N8/NEU9I3CUUTJQ13LAVOP320.uasset"
+			]
+		}
+	]
+}
